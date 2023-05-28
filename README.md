@@ -1,7 +1,7 @@
 # Data-Science-Process-on-Complex-Dataset
 ## AIM
 
-  To Perform Data Science Process on a complex dataset and save the data to a file. 
+       To Perform Data Science Process on a complex dataset and save the data to a file. 
 ## ALGORITHM
 
        STEP 1: Read the given Data 
